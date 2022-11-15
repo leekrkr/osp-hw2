@@ -1,0 +1,85 @@
+.rvPostContainer{
+  background: #fff7ef;
+  display: flex;
+  height: 90%;
+  width: 100%;
+  scroll-snap-align: start;
+  }
+
+.rvPostBG{
+    background: #FFF7EF;
+    width: 100vw;
+    height: 100vh;
+}
+
+.rvBox{
+    width: 1400px;
+    height: 600px;
+    background: #FFFFFF;
+    border-radius: 25px;
+    position: absolute;
+    top : 60%;
+    left : 50%;
+    transform : translate(-50%, -50%);
+  }
+
+.navbar {
+  display: inline;
+  width: 100vw;
+  height: 60px;
+  float: left;
+  background: white;
+}
+
+.logo-img {
+  display: grid;
+  float: left;
+  width: 100px;
+  margin: 0px 100px 0 20px;
+}
+
+table.type1{
+ width : 1400px;
+ height : 80px;
+ text-align : center;
+ font-family: 'Spoqa Han Sans Neo';
+ font-size : 22px;
+ font-weight: bolder;
+ color: #424242;
+}
+
+table.type3{
+ text-align : center;
+ font-family: 'Spoqa Han Sans Neo';
+}
+
+table.type4.tr{
+ text-align : center;
+ font-family: 'Spoqa Han Sans Neo';
+}
+
+
+hr.line{
+  width : 1395px;
+  color :  #424242;
+  position: absolute;
+}
+
+.review_img{
+ width : 170px;
+ height : 160px;
+ margin-left : 90px;
+ margin-top : 20px;
+}
+
+.featehr_img{
+  margin-top : 10px;
+}
+
+.rvcontent{
+ text-align : center;
+}
+
+.pagenum{
+ text-align : center;
+}
